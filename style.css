@@ -1,0 +1,147 @@
+.container-navbar{
+    background-color: #f0fff0;
+    padding: 10px 150px;
+    width: 100%;
+}
+.container-banner{
+    background-color: #f0fff0;
+    padding: 30px 40px;
+    width: 100%;
+
+}
+.container-students{
+    padding: 30px 150px;
+    background-color: #e5e5e5;
+    width: 100%;
+    margin-right: 70px;
+}
+
+.container-online{
+    background-color: #e5e5e5;
+    padding: 50px 140px;
+    width: 100%;
+}
+.container-test{
+    background-color: #e5e5e5;
+    padding: 50px 100px;
+    width: 100%;
+}
+.container-blog{
+    padding: 40px 80px;
+    background-color: #282531;
+    width: 100%;
+    
+}
+.container-footer{
+    background-color: #282531;
+    text-align: center;
+    color: white;
+    padding: 20px 20px;
+}
+.navbar-brand img{
+    width: 200px;
+    height: 60px;
+}
+.nav-item{
+    padding: 5px;
+}
+
+.btn {
+    background-color: #21b573;
+    border: none;
+    border-radius: 30px;
+    width: 90px;
+    height: 35px;
+}
+.start-button {
+    background-color: #21b573;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 130px;
+    height: 35px;
+}
+.row h6{
+    color: red;
+}
+.row span{
+    color: #21b573
+}
+.row img{
+    width: 550px;
+    height: 350px;
+  
+}
+.stud1 img{
+    width: 75px;
+    height: 80px;
+}
+.stud2 img{
+    width: 75px;
+    height: 80px;
+}
+.stud3 img{
+    width: 75px;
+    height: 80px;
+}
+.stud4 img{
+    width: 75px;
+    height: 80px;
+}
+.stud1, .stud2, .stud3, .stud4{
+    box-sizing: border-box;
+    padding: 15px 40px;
+    border: none;
+    background-color: #f8fffb;
+    box-shadow: 0px 0.2px 0.3px;
+    text-align: center;
+    border-radius: 10px;   
+}
+.stud1:hover{
+    background-color: white;
+}
+.stud2:hover{
+    background-color: white;
+}
+.stud3:hover{
+    background-color: white;
+}
+.stud4:hover{
+    background-color: white;
+}
+.stud1, .stud2, .stud3, .stud4, h5{
+    color: #413960;
+}
+.card{
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border: none;
+    background-color: #ffffff;
+    text-align: justify;
+    box-shadow: 0px 0.2px 0.3px;
+    border-radius: 10px; 
+    margin-top: 30px;
+}
+.card-footer img{
+    width: 18px;
+    height: 20px;
+}
+.card-footer{
+    border: none;
+    background-color: #ffffff;
+}
+.test1 img{
+    width: 100px;
+    height: 100px;
+   
+}
+.test1, .test2{
+    padding: 40px 40px;
+}
+.blog1, .blog2, .blog3, .blog4{
+    color: #ffffff;
+    text-align: left;
+}
+.nav-item{
+    color: black;
+}
